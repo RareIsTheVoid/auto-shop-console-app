@@ -1,0 +1,14 @@
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\bin\Debug\ManagementAtelierAuto.exe.config
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\bin\Debug\ManagementAtelierAuto.exe
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\bin\Debug\ManagementAtelierAuto.pdb
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.csprojAssemblyReference.cache
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.csproj.CoreCompileInputs.cache
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.exe
+C:\Users\Rares\source\repos\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.pdb
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\bin\Debug\ManagementAtelierAuto.exe.config
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\bin\Debug\ManagementAtelierAuto.exe
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\bin\Debug\ManagementAtelierAuto.pdb
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.csprojAssemblyReference.cache
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.csproj.CoreCompileInputs.cache
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.exe
+C:\Users\Rares\OneDrive\Desktop\ManagementAtelierAuto\ManagementAtelierAuto\obj\Debug\ManagementAtelierAuto.pdb
